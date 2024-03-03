@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/business-website/static/css/main.d0bdf126.css",
+    "main.js": "/business-website/static/js/main.681c7d1d.js",
+    "static/media/logo.png": "/business-website/static/media/logo.dbcb528d39f3b96cca3f.png",
+    "static/media/hero.png": "/business-website/static/media/hero.d3af2e625f224024da4a.png",
+    "static/media/services06.png": "/business-website/static/media/services06.caf14aaf60b7e75aca46.png",
+    "static/media/contact.png": "/business-website/static/media/contact.5fd590d0c0ea5a5ce719.png",
+    "static/media/services05.png": "/business-website/static/media/services05.76fe0f07283babc65b99.png",
+    "static/media/services04.png": "/business-website/static/media/services04.d14c10394956adb66980.png",
+    "static/media/services01.png": "/business-website/static/media/services01.b844c784db9564f7544b.png",
+    "static/media/services02.png": "/business-website/static/media/services02.4ddb97074bb8a7a34763.png",
+    "static/media/services03.png": "/business-website/static/media/services03.b83a9fff9a4f1f99b606.png",
+    "static/media/thingshappen.png": "/business-website/static/media/thingshappen.05b44c89275d378b25c8.png",
+    "static/media/team03.png": "/business-website/static/media/team03.6be30b9ff9b8b7cd07d8.png",
+    "static/media/team04.png": "/business-website/static/media/team04.45d8a3735270c7befb88.png",
+    "static/media/team06.png": "/business-website/static/media/team06.45050bb36385d4930c02.png",
+    "static/media/team01.png": "/business-website/static/media/team01.8bed7e2304413c5869b7.png",
+    "static/media/team02.png": "/business-website/static/media/team02.6087426667f19f13093e.png",
+    "static/media/team05.png": "/business-website/static/media/team05.8f8330128ac7fa4e58d9.png",
+    "index.html": "/business-website/index.html",
+    "main.d0bdf126.css.map": "/business-website/static/css/main.d0bdf126.css.map",
+    "main.681c7d1d.js.map": "/business-website/static/js/main.681c7d1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0bdf126.css",
+    "static/js/main.681c7d1d.js"
+  ]
+}
