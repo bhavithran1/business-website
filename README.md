@@ -5,7 +5,7 @@ This project is hosted with github pages on https://bhavithran1.github.io/busine
 </br>
 
 <div align="center">
-<img hight="300" width="700" alt="PNG" align="center" src="https://github.com/bhavithran1/bhavithran1/blob/main/assets/portfolio-website.png">
+<img hight="300" width="700" alt="JPEG" align="center" src="https://github.com/bhavithran1/bhavithran1/blob/main/assets/business-site.jpeg">
 </div>
 
 <br>
@@ -15,7 +15,7 @@ This project is hosted with github pages on https://bhavithran1.github.io/busine
 This website is built to run on most device screens seamlessly
 <br>
 <div align="center">
-<img hight="200" width="300" alt="PNG" align="center" src="https://github.com/bhavithran1/bhavithran1/blob/main/assets/phone.png">
+<img hight="200" width="300" alt="PNG" align="center" src="https://github.com/bhavithran1/bhavithran1/blob/main/assets/respon-site.png">
 </div>
 
 <br>
